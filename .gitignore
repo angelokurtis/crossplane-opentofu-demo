@@ -1,0 +1,15 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*_override.tf
+*_override.tf.json
+override.tf
+override.tf.json
+.terraformrc
+terraform.rc
+**/.terraform/*
+
+# IDE/editor settings
+.idea/
